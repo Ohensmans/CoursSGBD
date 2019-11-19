@@ -1,0 +1,69 @@
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormMDI.resources
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.Properties.Resources.resources
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csproj.GenerateResource.Cache
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.exe.config
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.exe
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.pdb
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormClasse.resources
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormParticipe.resources
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormStudents.resources
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.exe
+C:\Users\Olivier\source\repos\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.pdb
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\MDI CustomError.dll
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\MDI DB.dll
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\MDI_Modeles.dll
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\MDI CustomError.pdb
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\MDI DB.pdb
+C:\Users\Olivier\source\repos\2019.10.17_MDI\bin\Debug\MDI_Modeles.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormClasse.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormMDI.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormParticipe.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormStudents.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.Properties.Resources.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csproj.GenerateResource.Cache
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.exe
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.exe.config
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.exe
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\MDI CustomError.dll
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\MDI DB.dll
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\MDI_Modeles.dll
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\MDI CustomError.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\MDI DB.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\bin\Debug\MDI_Modeles.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormClasseAdd.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormClasseUpdate.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormStudentsAdd.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormStudentsUpdate.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormParticipeAdd.resources
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormParticipeUpdate.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.exe.config
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.exe
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\2019.10.17_MDI.pdb
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\MDI CustomError.dll
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\MDI DB.dll
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\MDI_Modeles.dll
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\MDI CustomError.pdb
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\MDI DB.pdb
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\bin\Debug\MDI_Modeles.pdb
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormClasse.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormClasseAdd.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormClasseUpdate.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormMDI.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormParticipe.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormParticipeAdd.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormParticipeUpdate.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormStudents.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormStudentsAdd.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.FormStudentsUpdate.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\_2019._10._17_MDI.Properties.Resources.resources
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csproj.GenerateResource.Cache
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.exe
+C:\Users\Olivier\Desktop\Devoir SGBD 03.11.19\2019.10.17_MDI\obj\Debug\2019.10.17_MDI.pdb

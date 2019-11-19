@@ -1,0 +1,6 @@
+C:\Users\Olivier\source\repos\2019.10.03 Devoir SGBD MDI\MDI CustomError\bin\Debug\MDI CustomError.dll
+C:\Users\Olivier\source\repos\2019.10.03 Devoir SGBD MDI\MDI CustomError\bin\Debug\MDI CustomError.pdb
+C:\Users\Olivier\source\repos\2019.10.03 Devoir SGBD MDI\MDI CustomError\obj\Debug\MDI_CustomError.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\source\repos\2019.10.03 Devoir SGBD MDI\MDI CustomError\obj\Debug\MDI CustomError.dll
+C:\Users\Olivier\source\repos\2019.10.03 Devoir SGBD MDI\MDI CustomError\obj\Debug\MDI CustomError.pdb
+C:\Users\Olivier\source\repos\2019.10.03 Devoir SGBD MDI\MDI CustomError\obj\Debug\MDI_CustomError.csprojResolveAssemblyReference.cache

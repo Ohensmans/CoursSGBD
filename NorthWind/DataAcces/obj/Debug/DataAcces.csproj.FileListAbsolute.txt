@@ -1,0 +1,8 @@
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\bin\Debug\CustomError.dll
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\bin\Debug\CustomError.pdb
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\obj\Debug\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\Olivier\Desktop\NorthWind\DataAcces\obj\Debug\DataAcces.pdb

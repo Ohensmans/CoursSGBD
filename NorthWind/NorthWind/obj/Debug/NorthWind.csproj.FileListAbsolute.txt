@@ -1,0 +1,17 @@
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\NorthWind.exe.config
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\NorthWind.exe
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\NorthWind.pdb
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\BusinessLayer.dll
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\CustomError.dll
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\DataAcces.dll
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\BusinessLayer.pdb
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\CustomError.pdb
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\bin\Debug\DataAcces.pdb
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.FormMain.resources
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.Properties.Resources.resources
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.FormTerritoires.resources
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.csproj.GenerateResource.Cache
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.exe
+C:\Users\Olivier\Desktop\NorthWind\NorthWind\obj\Debug\NorthWind.pdb

@@ -1,0 +1,12 @@
+C:\Users\Olivier\source\repos\MDI_Modeles\bin\Debug\MDI_Modeles.dll
+C:\Users\Olivier\source\repos\MDI_Modeles\bin\Debug\MDI_Modeles.pdb
+C:\Users\Olivier\source\repos\MDI_Modeles\obj\Debug\MDI_Modeles.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\source\repos\MDI_Modeles\obj\Debug\MDI_Modeles.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\source\repos\MDI_Modeles\obj\Debug\MDI_Modeles.dll
+C:\Users\Olivier\source\repos\MDI_Modeles\obj\Debug\MDI_Modeles.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\MDI_Modeles\bin\Debug\MDI_Modeles.dll
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\MDI_Modeles\bin\Debug\MDI_Modeles.pdb
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\MDI_Modeles\obj\Debug\MDI_Modeles.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\MDI_Modeles\obj\Debug\MDI_Modeles.csproj.CoreCompileInputs.cache
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\MDI_Modeles\obj\Debug\MDI_Modeles.dll
+C:\Users\Olivier\source\repos\2019.10.19 SGBD\MDI_Modeles\obj\Debug\MDI_Modeles.pdb
